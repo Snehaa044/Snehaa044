@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Sneha 👋</h1>
+<h3 align="center">ML Engineer in Progress | MERN Stack Developer | Python Enthusiast</h3>
 
-<!--
-**Snehaa044/Snehaa044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 Currently building real-world **Machine Learning** projects and sharpening my skills in  
+📌 **Python, Scikit-Learn, Pandas, Flask, Streamlit**, and more.  
+💻 Also working on full-stack development using the **MERN Stack** (MongoDB, Express.js, React, Node.js)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Skills & Technologies
+
+- 💻 Python | Pandas | NumPy | Scikit-Learn  
+- 🧪 Jupyter | Google Colab | VS Code  
+- 🌐 MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- 🧠 Streamlit | Flask (for ML web apps)  
+- 🗄 SQL | Git | GitHub  
+- 📊 Matplotlib | Seaborn | Plotly
+
+---
+
+### 📂 Current Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🎬 Movie Recommendation System | Content-based filtering using cosine similarity | Python, Pandas, Sklearn |
+| 📊 Resume Ranking ML App | Ranks resumes based on job description match | Scikit-learn, Flask |
+| 💬 Tweet Sentiment Analyzer | Classifies tweets into positive/neutral/negative | NLP, Python |
+| 🧰 MERN Stack Task Manager | Full-stack to-do app with login and CRUD | MongoDB, React, Node |
+
+---
+
+### 🌱 Learning Focus
+
+- Machine Learning Algorithms  
+- Data Preprocessing & Model Evaluation  
+- Building ML APIs and deploying models  
+- Combining ML with MERN Stack for full-stack intelligent systems
+
+---
+
+### ✨ Fun Fact
+> I believe that machines can learn — and so can we!  
+> Every project I build is one step closer to making smart, impactful systems.
+
+---
+
+### 🤝 Let's Connect
+
+- 📂 Check out my latest work in the pinned repositories
+
+---
+
+<p align="center">✨ Keep building. Keep learning. Keep evolving. ✨</p>
+
