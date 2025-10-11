@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sneha 👋</h1>
-<h3 align="center">ML Engineer in Progress | MERN Stack Developer | Python Enthusiast</h3>
+<h3 align="center">AI Engineer in Progress | MERN Stack Developer | ML Enthusiast</h3>
 
 ---
 
